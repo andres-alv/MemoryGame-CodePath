@@ -33,7 +33,9 @@ The following **optional** features are implemented:
 - [ ] User has a limited amount of time to enter their guess on each turn
 
 ## Video Walkthrough (GIF)
+This is the win screen.
 ![Win Screen](http://g.recordit.co/qIesotbXWN.gif)
+This is the loss screen.
 ![Losing Screen](http://g.recordit.co/t7e5qmcYrE.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
