@@ -32,10 +32,6 @@ The following **optional** features are implemented:
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
-
 ## Video Walkthrough (GIF)
 ![Win Screen](http://g.recordit.co/qIesotbXWN.gif)
 ![Losing Screen](http://g.recordit.co/t7e5qmcYrE.gif)
