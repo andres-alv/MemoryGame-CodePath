@@ -37,8 +37,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Win Screen](http://g.recordit.co/qIesotbXWN.gif)
 ![Losing Screen](http://g.recordit.co/t7e5qmcYrE.gif)
 ![](gif3-link-here)
