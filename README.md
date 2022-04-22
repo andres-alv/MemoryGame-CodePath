@@ -61,6 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    and CSS to help roll the project out sooner. As frustrating as it was, moments like those remind me of why I enjoy this hobby so much; being a problem solver is rewarding in so many ways!
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+
    I'm curious about how sensitive information is kept secure and web applications. In my intro to web development class, I studied website vulnerability, where we learned about the many vulnerabilities
    of using WordPress. It was a brief, surface-level overview of the topic, but it sparked my interest in studying more and becoming interested in the cybersecurity field.
    For my question on web dev, Are web developers/software developers given the appropriate training to ensure that they secure the application they are creating? And if so, how does it work?
@@ -68,6 +69,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    I know this isn't what the assignment is about, but this is an area I'm interested in working in in the future.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+
    If I had a few more hours for this project, I would add the following features: a visual strike counter for the user, a time countdown, a win, a game over screen, and a difficulty setting.
    A visible strike counter would need to keep track of the number of mistakes variable I have and display it to the user. As for the game over and game win screens, I think having a separate
    screen display would help make the game feel more interactive. Finally, I feel like a difficulty setting goes even further, keeping people engaged with the user being able to control the game's flow.
